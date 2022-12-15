@@ -1,0 +1,44 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.resaltar{
+
+    font-weight: bold;
+}
+
+td{
+
+    padding: 5;
+}
+
+table{
+    position: relative;
+    left: 250px;
+    border-spacing: 5px;
+   color: white;
+}
+
+table{
+
+    text-align: center;
+}
+
+table tr {
+
+    background-color:brown;
+    background-image: url("img/FONDO.PAISAJE");
+}
+
+table tr th {
+
+    background-color: brown;
+     background-color: rgb(233, 233, 92);
+}
+
+.blanco{
+
+    background-color: transparent
+}
